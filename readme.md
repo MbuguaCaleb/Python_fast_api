@@ -39,6 +39,13 @@ pip install fastapi[all]
 
 Will install the Fast API together with all its depeendencies
 
+Running APP
+
+uvicorn main:app
+
+main--name of file
+app-name of fast api instance
+
 ```
 
 **Notes By**
